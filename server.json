@@ -23,6 +23,22 @@
       "category": "Alimentação",
       "price": 30,
       "createdAt": "2025-01-03T15:32:16.875Z"
+    },
+    {
+      "id": "e6b0",
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-01-04T21:49:17.460Z"
+    },
+    {
+      "id": "d94d",
+      "description": "Iogurte",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 4,
+      "createdAt": "2025-01-04T22:10:02.836Z"
     }
   ]
 }
